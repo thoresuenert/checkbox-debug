@@ -1,0 +1,19 @@
+{
+  "name": "engine",
+  "keywords": [
+    "ember-addon",
+    "ember-engine"
+  ],
+  "dependencies": {
+    "ember-cli-htmlbars": "*",
+    "ember-cli-babel": "*"
+  },
+  "peerDependencies": {
+    "ember-engines": "*"
+  },
+  "ember-addon": {
+    "paths": [
+      "../ui"
+    ]
+  }
+}

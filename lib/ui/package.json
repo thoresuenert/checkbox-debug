@@ -1,0 +1,11 @@
+{
+  "name": "ui",
+  "keywords": [
+    "ember-addon"
+  ],
+  "dependencies": {
+    "ember-cli-htmlbars": "*",
+    "ember-multiselect-checkboxes": "^0.10.3",
+    "ember-cli-babel": "*"
+  }
+}
